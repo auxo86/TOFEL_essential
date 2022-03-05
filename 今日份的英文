@@ -404,8 +404,13 @@ There has been a significant increase in the number of women students in recent 
 
 
 The finding fits with those from other observational studies that have also linked high estrogen levels to a lower risk of becoming seriously ill from COVID-19, says Dr. Franck Mauvais-Jarvis, director of the Sex-Based Medicine Laboratory at Tulane University (who was not involved in the study).
+杜蘭大學性醫學實驗室主任 Franck Mauvais-Jarvis 博士（博士本人並沒有參與這項研究）說，這結果跟之前其他連結高雌激素血中濃度和較低新冠肺炎重症風險的觀察性研究結果相符。
+
 Estrogen—and the hormone progesterone, to a lesser extent—is believed to be involved in the body’s immune response and may limit inflammation, he says.
+他說，雌激素-以及黃體素（在較小的程度上）-被認為會參與身體的免疫反應，並且可能可以限制發炎（的情況）。
+
 In COVID-19, inflammation can trigger a “cytokine storm,” a dangerous condition in which the immune system can get overwhelmed.
+在新冠肺炎中，發炎反應可能會引起一種免疫系統難以承受的危險情況稱之為細胞因子風暴。
 
 // observational study: 統計學專有名詞，觀察性研究。是一類研究方法，通常可以細分成三種主要的類型。
 
@@ -413,12 +418,45 @@ In COVID-19, inflammation can trigger a “cytokine storm,” a dangerous condit
 I prefer teaching methods that actively involve students in learning.
 我較喜歡能讓學生主動參與學習的教學法。
 
+// extent: noun [ S or U ] 程度
+She had not realized the extent to which the children had been affected.
+她還沒有意識到孩子們受影響的程度。
+
 // inflammation: 發炎反應
 Aspirin reduces pain and inflammation.
 阿司匹林可緩解疼痛和炎症。
 
 // cytokine: 細胞激素，這是醫學專有名詞，通常發炎的時候參與免疫反應的調節，或是在生長發育的時候也發生重要的影響。
+這裡解釋一下 cytokine storm ：當免疫系統對抗病原體時，細胞因子會引導免疫細胞前往受感染處。同時，細胞因子也會啟動這些免疫細胞，被啟動的免疫細胞則會產生更多的細胞素。通常來說，人體會檢查並控制這個反饋循環。但是在有些情況下，情況會失控，導致一個地方聚集了太多被啟動的免疫細胞。目前為止，還沒有完全了解這一現象的具體成因，但是有推測認為可能是由於免疫系統對新的、高致病的病原體產生的過激反應。
+細胞因子風暴有可能會對身體組織和器官產生嚴重的損傷，比如當其發生於肺部，過多的免疫細胞和組織液可能會在肺部積聚，阻塞空氣進出，並導致死亡。
 
-// overwhelm: verb,（用武力）制服，擊敗，征服
-Government troops have overwhelmed the rebels and seized control of the capital.
-政府軍已擊敗了叛亂者，控制了首都。
+// overwhelm: verb (EMOTION) (通常用於描述強烈的感情）充溢，使難以承受，使不知所措
+They were overwhelmed with/by grief（悲痛） when their baby died.
+嬰兒夭折時他們悲痛欲絕。
+
+
+
+Other research suggests that estrogen may also affect spike protein receptors,
+which SARS-CoV-2—the virus that causes COVID-19—uses to get into cells,
+says Dr. Malin Sund, a professor at Umeå University in Sweden and co-author of the new study.
+
+However, as Sund and her fellow authors point out,
+randomized clinical trials are necessary to determine whether the link is causal,
+and if artificially increasing estrogen can protect patients from COVID-19.
+
+The new study is not without drawbacks; for instance, the researchers were unable to check the women’s hormone levels over time.
+
+// causal: adjective, 因果關係的（聯繫等）
+Is there a causal relationship between violence on television and violent behaviour?
+電視暴力和暴力行為之間有因果關係嗎？
+
+// randomized clinical trial: RCT , 隨機臨床試驗，醫用統計專有名詞。具有最高證據等級。
+
+// artificially: adverb, 人工地
+Most mushrooms sold in supermarkets have been grown artificially in manure.
+超市出售的大多數蘑菇都是使用肥料人工種植的。
+
+// drawback: noun [ C ], 缺點，弱點；不利因素
+One of the drawbacks of living with someone is having to share a bathroom.
+和別人合住的缺點之一就是不得不合用洗手間。
+
