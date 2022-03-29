@@ -1,0 +1,43 @@
+In 2017, Japan's Agency for Cultural Affairs designated Yuasa a Japan Heritage Site for being the birthplace of soy sauce, which is said to have been first made here in Japan in the late 13th Century.
+1.看逗號切短句
+
+In 2017, Japan's Agency for Cultural Affairs designated Yuasa a Japan Heritage Site for being the                                              ^^^^^^^^^^ 
+birthplace of soy sauce,=>2017年日本文化廳指定醬油發源地的湯淺為日本遺產
+
+2.which is said to have been first made here in Japan in the late 13th Century.
+                   ^^^^^^^^^^^^^^^^^^^^首次製作 
+據說首次製作醬油是在13世紀後期
+
+3.整句=>2017年日本文化廳指定醬油發源地的湯淺為日本遺產,據說首次製作醬油是在13世紀後期.
+
+The now-beloved condiment came about soon after a Japanese Buddhist monk named Shinchi Kakushin returned from a trip to China and became the abbot at Kokoku-ji Temple near Yuasa.
+
+He brought with him a recipe for making Kinzanji miso, a uniquely chunky type of miso made from whole    ^^^^^^^^^^^^                                                                       ^^^^^^^^^            
+soybeans, various other grains (such as barley and rice) and vegetables.
+
+1.看逗號切短句
+He brought with him a recipe for making Kinzanji miso, =>他帶來了製作金山寺味噌的食譜，
+   ^^^^^^^^^^^^攜帶
+2. a uniquely chunky type of miso made from whole soybeans =>一種由整粒大豆製成的獨特的厚實味噌，
+                                  ^^^^^^^^^                
+3.various other grains (such as barley and rice) and vegetables.=>其他各種穀物(如大麥和大米)和蔬菜。
+
+4.整句=>他帶來了製作金山寺味噌的食譜,一種獨特的厚實味噌,由整粒大豆、各種其他穀物(如大麥和大米)和蔬菜製成。
+
+
+Yuasa's townsfolk soon discovered that the small amounts of liquid that pooled in tubs of fermenting Kinzanji miso, as its ingredients were pressed down with heavy stones, was in itself delicious.
+
+1.看逗號切短句 as its ingredients were pressed down with heavy stones 是插句進來補充說明miso,看的時候
+可以先略過它不讀,先了解Yuasa's townsfolk soon discovered that the small amounts of liquid that pooled in tubs of fermenting Kinzanji miso was in itself delicious.的意思.
+
+2.Yuasa's townsfolk soon discovered that the small amounts of liquid that pooled in tubs of fermenting                          ^^^^^^^^^^                                                                      
+Kinzanji miso /was in itself delicious.
+               ^^^
+湯淺的鎮民們很快發現，在發酵金山寺味噌桶中積聚的少量液體，本身就很美味。
+
+3.as its ingredients were pressed down with heavy stones=>因為它的成分是用沉重的石頭壓下的，
+                     ^^^^^^^^^^^^  
+
+4.整句=>湯淺的鎮民們很快發現，在發酵金山寺味噌桶中積聚的少量液體，本身就很美味。因為它(液體)的成分是用沉重的石頭壓下聚積的。
+
+This by-product, called tamari (a generic word that means "to accumulate") became the basis for soy sauce as we know it today.
