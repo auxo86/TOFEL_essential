@@ -1,0 +1,35 @@
+As its tamari byproduct was so tasty, locals wanted a way to produce larger amounts of it.
+
+They efficiently adapted the Kinzanji miso-making process to create soy sauce, a thinner, yet similar tasting, form of the tamari.
+
+Established in 1841,/ Kadocho is one of the oldest of Yuasa's remaining soy sauce brewers;/ the soy sauce they produce is as close to the original type as you are likely to find anywhere in Japan.
+
+1.切短句...這邊的分號;是連接兩個獨立的句子
+Established in 1841,/ Kadocho is one of the oldest of Yuasa's remaining soy sauce brewers
+                              ^^
+Kadocho是湯淺現存最古老的醬油釀造商之一,成立於1841年.
+
+2.the soy sauce they produce is as close to the original type/as you are likely to find anywhere in Japan.
+                             ^^                                      ^^^^   
+它們製造的醬油接進原始的基底,你幾乎可以在日本任何地方找到.
+
+整句=>Kadocho是湯淺現存最古老的醬油釀造商之一,成立於1841年.它們製造的醬油接進原始的基底,你幾乎可以在日本任何地方找到.   
+
+As we descended from the loft, Kano walked me through the brewery and explained how the soy-sauce making process was adapted from that of Kinzanji miso.
+
+Pointing out ancient wooden tools and iron equipment, he said that to make soy sauce, just two, rather than a variety, of grains, are used – steamed soybeans and toasted wheat – which are mashed rather than left whole (as is the case for Kinzanji miso) to better extract their flavour and umami.
+1.切短句...
+Pointing out ancient wooden tools and iron equipment,=>指出古老的木製工具和鐵器，
+
+2.he said that to make soy sauce, just two, rather than a variety, of grains, are used
+                  ^^^^                                                        ^^^^^^^^  
+– steamed soybeans and toasted wheat – 他說，為了製作醬油，只使用兩種而不是多種穀物-蒸大豆和烤小麥
+這邊的- -插句,說明的是just two的穀物.
+
+3.which are mashed rather than left whole (as is the case for Kinzanji miso) to better extract their flavour and umami.
+        ^^^^^^^^^^
+它們被搗碎而不是整粒家進去（金山寺味噌就是這種情況），以更好地萃取它們的味道和鮮味。 
+
+4.整句=>他指出古老的木器和鐵器，說做醬油，只用蒸大豆和烤小麥兩種而不是多種穀物;它們被搗碎而不是整粒下去(就像金山寺味噌)以便更好地
+萃取它們的味道和鮮味。
+
